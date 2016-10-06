@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue
+}
+
+input {
+  border-radius: 2px;
+}
+
+#loginForm {
+  width: 23%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#loginTitle {
+  font-style: italic;
+  font-size: 2.5em;
+}
+
+#submitButton {
+  background: darkturquoise;
+  color: white;
+  font-size: 1.1em;
+  width: 100%;
+  border-radius: 4px;
+}
